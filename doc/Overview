@@ -1,0 +1,38 @@
+YAHAS (Yet Another Home Automation System) è un sistema di domotica “fai da te” indirizzato principalmente per i “makers” ma utilizzabile anche dai meno esperti.
+Essendo un sistema do-it-yourself presenta tutti i pro e contro delle soluzioni di questo tipo.
+
+La progettazione di YAHAS ha seguito linee guida per renderlo:
+
+  -	Integrato, comprende tutte le componenti applicative necessarie
+
+  -	Indipendente, non dipende da software applicativo di terze parti
+
+  -	Autonomo, risulta indipendente da cloud e (volendo) da Internet
+
+  -	Sicuro, utilizzo di certificati per le connessioni
+
+  -	Flessibile, dotato di script engine per estendere altre funzionalità
+
+  -	Chiuso, non si interfaccia direttamente con dispositivi proprietari tipo Alex
+
+  -	Wireless, la connettività è basata unicamente su Wifi a 2.4 Ghz offerta dal router AP
+
+  -	Gerarchico, esistono profili utenti con differenti permessi
+
+
+YAHAS è costituito dai seguenti 3 componenti fondamentali:
+
+  -	NodeAgent 		permette di comandare il dispositivo elettrico, 
+  
+  -	NodeManager 	coordina la gestione dei vari nodeAgent,
+  
+  -	NodeControl		gestisce l’interazione dei dispositivi con l’utente finale, 
+
+
+Il NodeAgent è implementato da una scheda ESP8266 proprietaria oppure di terze parti (opportunamente riprogrammata) quali ad esempio i Sonoff, Shelly, Wemos, ecc.
+Al NodeAgent sono collegati i vari relay & sensor a cui sono connessi i dispositivi elettrici da controllare.
+
+Il NodeManager è implementato da una scheda RaspberryPi oppure da un miniPc Windows/Linux.
+Sul NodeManager sono attivi un broker Mqtt, lo script Engine (java) ed un webserver minimale.
+
+Il NodeControl è un qualsiasi smartphone o tablet Android, su cui installare l’apposita app HomeView ed il certificato utente.
