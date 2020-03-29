@@ -4,3 +4,4 @@ YAHAS (Yet Another Home Automatin System) is a self-consistent system for maker 
 Particular attention has been paid to security, in fact a local cloud (node manager) is used and access to the system from the Internet is achieved via SSL certificate.
 
 
+<a href="https://www.facebook.com/groups/2521276234856436/"><strong>Facebook</strong></a> group.
