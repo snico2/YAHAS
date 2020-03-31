@@ -1,9 +1,13 @@
 Change Log
 
+v0.9.4    31/03/2020
+- PossibilitÃ  di associare a ciascun gpio il livello di Attivazione/Riposo (High/Low)
+- Inserito shell command Status
+
 v0.9.3.1	26/03/2020
 
 - Registrazione al broker mqtt mediante hostname per facilitare lettura log del broker
-- L'aggiornamento di un nuovo broker ip-address adesso è dinamico e non richiede un restart
-- Ripristinata configurazione relays/sensors dal menù di configurazione via seriale
+- L'aggiornamento di un nuovo broker ip-address adesso Ã¨ dinamico e non richiede un restart
+- Ripristinata configurazione relays/sensors dal menÃ¹ di configurazione via seriale
 
 
