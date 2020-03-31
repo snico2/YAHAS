@@ -1,0 +1,6 @@
+Change Log
+
+v0.9.7    31/03/2020
+- Aggiornamenti di YManager e YConfigurator per gestire configurazione livello attivazione dei singoli GPIO
+- Aggiornato formato record del db.json
+
