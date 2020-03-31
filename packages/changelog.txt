@@ -1,6 +1,10 @@
 Change Log
 
-v0.9.7    31/03/2020
-- Aggiornamenti di YManager e YConfigurator per gestire configurazione livello attivazione dei singoli GPIO
-- Aggiornato formato record del db.json
+31/03/2020  v0.9.7    YManager
+31/03/2020  v0.9.7    YConfigurator
+            - Aggiornamenti per gestire configurazione livello attivazione dei singoli GPIO
+            - Aggiornato formato record del db.json
+
+31/03/2020  aggiornato tar ymanager
+28/03/2020  aggioranto tar website
 
