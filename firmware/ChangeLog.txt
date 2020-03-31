@@ -2,7 +2,11 @@ Change Log
 
 v0.9.4    31/03/2020
 - Possibilità di associare a ciascun gpio il livello di Attivazione/Riposo (High/Low)
+- Cambiato formato record dati configurazione "eprom"
 - Inserito shell command Status
+
+Nota l'upgrade da precedenti versioni azzera la configurazione, all'attivazione il NodeAgent si presenta come Access Point.
+Pertanto bisogna riconfigurarlo.
 
 v0.9.3.1	26/03/2020
 
