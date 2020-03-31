@@ -1,9 +1,11 @@
 Change Log
 
-v0.9.3.1	26/03/2020
 
-- Registrazione al broker mqtt mediante hostname per facilitare lettura log del broker
-- L'aggiornamento di un nuovo broker ip-address adesso è dinamico e non richiede un restart
-- Ripristinata configurazione relays/sensors dal menù di configurazione via seriale
+31/03/2020  v0.9.7  	Rilascio applicazione YConfigurator
+31/03/2020  v0.9.7  	Rilascio applicazione YManager
+31/03/2020  v0.9.4  	Rilascio firmware del NodeAgent
+26/03/2020  v0.9.3.1	Rilascio firmware del NodeAgent
+
+
 
 
