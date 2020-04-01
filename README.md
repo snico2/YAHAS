@@ -5,3 +5,12 @@ Particular attention has been paid to security, in fact a local cloud (node mana
 
 
 <a href="https://www.facebook.com/groups/2521276234856436/"><strong>Facebook</strong></a> group.
+
+
+
+Last version
+
+0.9.6   01/04/2020    Android apk HomeView
+0.9.7   31/03/2020    Java program YConfigurator
+0.9.7   31/03/2020    Java program YManager
+0.9.4   31/03/2020    ESP8266 firmware NodeAgent
