@@ -1,7 +1,7 @@
 Change Log
 
-v0.9.4    31/03/2020
-- Rilascio firmware per SonoffMini
+v0.9.4    02/04/2020
+  - Rilascio firmware per SonoffMini
 
 v0.9.4    31/03/2020
 - Possibilità di associare a ciascun gpio il livello di Attivazione/Riposo (High/Low)
@@ -19,6 +19,6 @@ v0.9.3.1	26/03/2020
 - Ripristinata configurazione relays/sensors dal menù di configurazione via seriale
 - Aggiornamento per ESP-01 e WemosMini
 
-v0.9.3	25/03/2020
+v0.9.3	  25/03/2020
 - Rilascio firmware per le board ESP-01 e WemosMini
 
