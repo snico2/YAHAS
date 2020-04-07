@@ -1,7 +1,17 @@
 Change Log
 
+v0.9.5    07/04/2020
+ - Aggiornamento firmware per SonoffMini, ShellyOne, WemosMini, ESP01
+ - Cambiato formato record dati configurazione "eprom" portando tutti i nomi agent/device a 32 char
+ - Aggiunta gestione sensore binario per gestione allarmi esterni
+
+Nota l'upgrade da precedenti versioni azzera la configurazione, all'attivazione il NodeAgent si presenta come Access Point,
+pertanto bisogna riconfigurarlo.
+
+
 v0.9.4    02/04/2020
   - Rilascio firmware per SonoffMini
+
 
 v0.9.4    31/03/2020
 - Possibilità di associare a ciascun gpio il livello di Attivazione/Riposo (High/Low)
@@ -10,14 +20,16 @@ v0.9.4    31/03/2020
 - Aggiornamento per ESP-01, WemosMini
 - Rilascio firmware per ShellyOne
 
-Nota l'upgrade da precedenti versioni azzera la configurazione, all'attivazione il NodeAgent si presenta come Access Point.
-Pertanto bisogna riconfigurarlo.
+Nota l'upgrade da precedenti versioni azzera la configurazione, all'attivazione il NodeAgent si presenta come Access Point,
+pertanto bisogna riconfigurarlo.
+
 
 v0.9.3.1	26/03/2020
 - Registrazione al broker mqtt mediante hostname per facilitare lettura log del broker
 - L'aggiornamento di un nuovo broker ip-address adesso è dinamico e non richiede un restart
 - Ripristinata configurazione relays/sensors dal menù di configurazione via seriale
 - Aggiornamento per ESP-01 e WemosMini
+
 
 v0.9.3	  25/03/2020
 - Rilascio firmware per le board ESP-01 e WemosMini
