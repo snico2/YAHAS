@@ -1,6 +1,11 @@
 
+07-04-2020    v0.9.6A  HomeView
+              - Aggiunta gestione sensori binari per eventi tpo allarmi 
+
+
 01-04-2020    v0.9.6  HomeView
-              - bugfix ritardo visualizzazione valori sensori 
+              - Bugfix ritardo visualizzazione valori sensori 
+
 
 28-03-2020    v0.9.5  HomeView
               - Rilascio app
