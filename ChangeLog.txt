@@ -1,5 +1,7 @@
 Change Log
 
+07/04/2020  v0.9.6A   Aggioranta apk HomeView
+07/04/2020  v0.9.5    Aggiornamento firmware NodeAgent per SonoffMini, ShellyOne, Wemosmini, Esp01
 02/04/2020  v0.9.4    Rilascio firmware NodeAgent per SonoffMini
 01/04/2020  v0.9.6    Aggiornamento apk HomeView
 31/03/2020  v0.9.7    Aggiornamento applicazione YConfigurator
