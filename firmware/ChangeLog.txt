@@ -1,5 +1,14 @@
 Change Log
 
+v0.9.6    18/04/2020
+ - Aggiornamento firmware per SonoffMini, ShellyOne, WemosMini, ESP01
+ - Cambiato formato record dati configurazione "eprom" 
+ - Aggiunta gestione distance sensor per gestione ultrasonic HCSR04
+
+Nota l'upgrade da precedenti versioni azzera la configurazione, all'attivazione il NodeAgent si presenta come Access Point,
+pertanto bisogna riconfigurarlo.
+
+
 v0.9.5    07/04/2020
  - Aggiornamento firmware per SonoffMini, ShellyOne, WemosMini, ESP01
  - Cambiato formato record dati configurazione "eprom" portando tutti i nomi agent/device a 32 char
