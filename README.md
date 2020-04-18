@@ -10,12 +10,12 @@ Particular attention has been paid to security, in fact a local cloud (node mana
 
 Last version
 
-0.9.5   07/04/2020    ESP8266 firmware NodeAgent
+0.9.6   18/04/2020    ESP8266 firmware NodeAgent
 
-0.9.6A  07/04/2020    Android apk HomeView
+0.9.7   18/04/2020    Android apk HomeView
 
-0.9.7   31/03/2020    Java program YConfigurator
+0.9.8   18/04/2020    Java program YConfigurator
 
-0.9.7   31/03/2020    Java program YManager
+0.9.8   18/04/2020    Java program YManager
 
 
